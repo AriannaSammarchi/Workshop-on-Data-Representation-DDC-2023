@@ -6,7 +6,6 @@ There is a single presentation that covers the entirety of the workshop and a co
 
 What you may not be familiar is the R Markdown (Rmd) files used to generate the documents. If you download the Rmd files you can run the same code on your machine as well.
 
-Currently I only uploaded the files related to the first session as I plan to change the second session based on attendee's feedback.
 
 ## What is This About?
 
@@ -22,14 +21,11 @@ Currently I only uploaded the files related to the first session as I plan to ch
 
 [Visualization](5_Visualizations.pdf) an introduction to ggplot2 package with simple examples on histograms, scatterplots, and barcharts.
 
-[Analysis Examples](6_Modeling.pdf) three short tutorials on regression, logistic regression, and classifier training in R.
-
 [Presentation](Rwrkshp.pdf) is the slide deck for the whole workshop.
 
-[Assignment](Assignment.pdf) is a short list of tasks to be carried out prior to coming to the second session.
 
 -------
-## Material adapted from: How I Learned to Stop Worrying and Love the R Console by [Irfan E Kanat](http://irfankanat.com)
+## Material taken and adapted from: How I Learned to Stop Worrying and Love the R Console by [Irfan E Kanat](http://irfankanat.com)
 
 
 ![Creative Commons 4](figures/cc.png) How I Learned to Stop Worrying and Love the R Console by [Irfan E Kanat](http://irfankanat.com) is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). Based on a work at [http://github.com/iekanat/rworkshop](http://github.com/iekanat/rworkshop).
