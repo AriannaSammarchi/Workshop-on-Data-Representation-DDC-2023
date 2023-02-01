@@ -9,17 +9,17 @@ What you may not be familiar is the R Markdown (Rmd) files used to generate the 
 
 ## What is This About?
 
-[Pre-Workshop](0_R_workshop.pdf) covers the installation of R and R Studio.
+[Pre-Workshop](.pdf) covers the installation of R and R Studio.
 
-[Introduction](1_Introduction.pdf) is a brief intro to R console interface.
+[Introduction](.pdf) is a brief intro to R console interface.
 
-[Import](2_Import.pdf) is an overview on how to import data from most common sources.
+[Import](.pdf) is an overview on how to import data from most common sources.
 
-[Packages](3_packages.pdf) provides a look at what packages are, how to get them, and briefly introduces some of the more common packages.
+[Packages](.pdf) provides a look at what packages are, how to get them, and briefly introduces some of the more common packages.
 
-[Data Manipulation](4_DataManipulation.pdf) is an introduction to merging, aggregating, and transforming data.
+[Data Manipulation](.pdf) is an introduction to merging, aggregating, and transforming data.
 
-[Visualization](5_Visualizations.pdf) an introduction to ggplot2 package with simple examples on histograms, scatterplots, and barcharts.
+[Visualization](.pdf) an introduction to ggplot2 package with simple examples on histograms, scatterplots, and barcharts.
 
 [Presentation](Rwrkshp.pdf) is the slide deck for the whole workshop.
 
