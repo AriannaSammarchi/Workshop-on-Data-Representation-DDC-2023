@@ -11,7 +11,7 @@ What you may not be familiar is the R Markdown (Rmd) files used to generate the 
 
 [Pre-Workshop](0_New_Pre_Workshop_updated.pdf) covers the installation of R and R Studio.
 
-[Introduction](.pdf) is a brief intro to R console interface.
+[Introduction](new_introduction.pdf) is a brief intro to R console interface.
 
 [Import](.pdf) is an overview on how to import data from most common sources.
 
