@@ -17,7 +17,7 @@ What you may not be familiar is the R Markdown (Rmd) files used to generate the 
 
 [Packages](.pdf) provides a look at what packages are, how to get them, and briefly introduces some of the more common packages.
 
-[Data Manipulation](.pdf) is an introduction to merging, aggregating, and transforming data.
+[Data Manipulation](New_Data_manipulation.pdf) is an introduction to merging, aggregating, and transforming data.
 
 [Visualization](.pdf) an introduction to ggplot2 package with simple examples on histograms, scatterplots, and barcharts.
 
