@@ -13,7 +13,7 @@ What you may not be familiar is the R Markdown (Rmd) files used to generate the 
 
 [Introduction](new_introduction.pdf) is a brief intro to R console interface.
 
-[Import](.pdf) is an overview on how to import data from most common sources.
+[Import](new_import.pdf) is an overview on how to import data from most common sources.
 
 [Packages](.pdf) provides a look at what packages are, how to get them, and briefly introduces some of the more common packages.
 
