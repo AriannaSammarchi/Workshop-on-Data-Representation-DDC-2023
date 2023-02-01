@@ -28,4 +28,4 @@ What you may not be familiar is the R Markdown (Rmd) files used to generate the 
 ## Material taken and adapted from: How I Learned to Stop Worrying and Love the R Console by [Irfan E Kanat](http://irfankanat.com)
 
 
-![Creative Commons 4](CC.png) How I Learned to Stop Worrying and Love the R Console by [Irfan E Kanat](http://irfankanat.com) is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). Based on a work at [http://github.com/iekanat/rworkshop](http://github.com/iekanat/rworkshop).
+![Creative Commons 4](cc.png) How I Learned to Stop Worrying and Love the R Console by [Irfan E Kanat](http://irfankanat.com) is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). Based on a work at [http://github.com/iekanat/rworkshop](http://github.com/iekanat/rworkshop).
