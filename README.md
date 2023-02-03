@@ -13,15 +13,12 @@ What you may not be familiar is the R Markdown (Rmd) files used to generate the 
 
 [Introduction](new_introduction.pdf) is a brief intro to R console interface.
 
-[Import](new_import.pdf) is an overview on how to import data from most common sources.
-
-[Packages](New_Packages.pdf) provides a look at what packages are, how to get them, and briefly introduces some of the more common packages.
+[Import and packages](.pdf) is an overview on both how to import data from most common sources and a look at what packages are, how to get them, and briefly introduces some of the more common packages.
 
 [Data Manipulation](New_Data_manipulation.pdf) is an introduction to merging, aggregating, and transforming data.
 
 [Visualization](New_Data_Visualization.pdf) an introduction to ggplot2 package with simple examples on histograms, scatterplots, and barcharts.
 
-[Presentation](.pdf) is the slide deck for the whole workshop.
 
 
 -------
