@@ -19,7 +19,7 @@ What you may not be familiar is the R Markdown (Rmd) files used to generate the 
 
 [Data Manipulation](New_Data_manipulation.pdf) is an introduction to merging, aggregating, and transforming data.
 
-[Visualization](.pdf) an introduction to ggplot2 package with simple examples on histograms, scatterplots, and barcharts.
+[Visualization](New_Data_Visualization.pdf) an introduction to ggplot2 package with simple examples on histograms, scatterplots, and barcharts.
 
 [Presentation](.pdf) is the slide deck for the whole workshop.
 
