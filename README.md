@@ -9,7 +9,7 @@ What you may not be familiar is the R Markdown (Rmd) files used to generate the 
 
 ## What is This About?
 
-[Pre-Workshop](0_New_Pre_Workshop_updated.pdf) covers the installation of R and R Studio.
+[Pre-Workshop](00_Pre_Workshop_Install_R_Studio.pdf) covers the installation of R and R Studio.
 
 [Introduction](new_introduction.pdf) is a brief intro to R console interface.
 
